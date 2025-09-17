@@ -1,0 +1,10 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore VSCode and system files
+.vscode/
+.DS_Store
+
+# Ignore virtual environments at parent level
+env/

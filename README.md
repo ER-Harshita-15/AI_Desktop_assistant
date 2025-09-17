@@ -168,6 +168,3 @@ python eye_controlled_mouse.py
 
 ---
 
-## License
-
-MIT License (or specify your license here)
