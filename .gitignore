@@ -8,3 +8,5 @@ __pycache__/
 
 # Ignore virtual environments at parent level
 env/
+
+#Separately for each project folder there are separate env folders
