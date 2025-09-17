@@ -122,7 +122,7 @@ Ask Sophia questions, and she'll answer using the Hugging Face API, a free ChatG
 - "Open Canva"
 
 #### Multimedia Search
-- "Play the video of the 99 names of Allah on YouTube"
+- "Play the video of the 12 names of Surya Dev on YouTube"
 
 #### Phone and Messaging
 - "Sophia, make a phone call to Harshita"
